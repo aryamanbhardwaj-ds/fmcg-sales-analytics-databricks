@@ -98,7 +98,7 @@ fmcg-sales-analytics-databricks
 
 # 👨‍💻 Author
 
-**Mannu**
+**Aryaman Bhardwaj**
 BSc (Research) – Data Science & Analytics
 Aspiring Data Engineer
 
